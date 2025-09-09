@@ -137,9 +137,5 @@ PharmaLens is a **portable, QR/Barcode-based medicine verification system** that
 * Parthiv Majumder
 * Anindo Paul
 * Tanmoy Ghosh
-* Dishani Roy
-
 ---
 
-
-Would you like me to make this README **developer-friendly** (with installation, setup, and usage instructions like scanning workflow and API integration) or keep it strictly as a **research/patent-style project description**?
