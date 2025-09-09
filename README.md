@@ -8,6 +8,14 @@ This innovation addresses the challenges of **counterfeit medicines, medication 
 
 ---
 
+---
+* Figure 1: Example of medicine blister packs with hidden or difficult-to-read expiry details.
+* Figure 2: Medicine tablets with embedded QR codes for identification.
+* Figure 3: Front view of the PharmaLens handheld QR/Barcode medicine scanner.
+* Figure 4: Rear view of the PharmaLens handheld QR/Barcode medicine scanner.
+* Figure 5: Internal component layout of PharmaLens showing QR code scanner, LCD, PCB, and battery.
+---
+
 ## Flowchart
 <img width="569" height="1185" alt="image" src="https://github.com/user-attachments/assets/1a6d747f-0a1a-4946-bed3-bed30aa6601a" />
 
@@ -42,13 +50,6 @@ This innovation addresses the challenges of **counterfeit medicines, medication 
 
 
 
----
-* Figure 1: Example of medicine blister packs with hidden or difficult-to-read expiry details.
-* Figure 2: Medicine tablets with embedded QR codes for identification.
-* Figure 3: Front view of the PharmaLens handheld QR/Barcode medicine scanner.
-* Figure 4: Rear view of the PharmaLens handheld QR/Barcode medicine scanner.
-* Figure 5: Internal component layout of PharmaLens showing QR code scanner, LCD, PCB, and battery.
----
 
 ## 🚀 Key Features
 
